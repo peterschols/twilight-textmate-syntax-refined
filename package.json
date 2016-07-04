@@ -1,9 +1,9 @@
 {
-  "name": "twilight-textmate-syntax",
+  "name": "twilight-refined",
   "theme": "syntax",
-  "version": "0.1.19",
-  "description": "A syntax theme for the Atom Editor which aims to render as close as possible to the way Twilight renders on TextMate2",
-  "repository": "https://github.com/msmiley/twilight-textmate-syntax",
+  "version": "0.9.0",
+  "description": "The Twilight theme, refined, for Atom.",
+  "repository": "https://github.com/fredwu/twilight-refined",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
