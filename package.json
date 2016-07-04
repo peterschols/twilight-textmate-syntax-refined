@@ -1,7 +1,7 @@
 {
   "name": "twilight-refined",
   "theme": "syntax",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "The Twilight theme, refined, for Atom.",
   "repository": "https://github.com/fredwu/twilight-refined",
   "license": "MIT",
