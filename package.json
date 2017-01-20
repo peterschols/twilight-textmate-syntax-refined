@@ -2,7 +2,7 @@
   "name": "twilight-textmate-syntax-refined",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "The Twilight theme, refined, for Atom.",
+  "description": "The Twilight theme, refined, for Atom 1.13 and higher.",
   "repository": "https://github.com/aLANparty/twilight-textmate-syntax-refined",
   "license": "MIT",
   "engines": {
