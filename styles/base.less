@@ -25,6 +25,12 @@ atom-text-editor {
   color: @syntax-gutter-text-color-selected;
 }
 
+/* Fix theme gutter height when focused */
+.is-focused .gutter .line-number.cursor-line-no-selection {
+  margin-top: -1px !important;
+  margin-bottom: -1px !important;
+}
+
 .wrap-guide {
   color: @syntax-wrap-guide-color;
 }
